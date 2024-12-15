@@ -11,4 +11,4 @@
 [Day 3](https://adventofcode.com/2024/day/3)
 
 - Part 1: https://go.dev/play/p/eL4TGiAxmBE
-- 
+- Part 2: https://go.dev/play/p/sK2Q8AVW4OF
