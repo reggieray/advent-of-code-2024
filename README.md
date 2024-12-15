@@ -7,3 +7,8 @@
 
 - Part 1: https://go.dev/play/p/TarhWGEyafk
 - Part 2: https://go.dev/play/p/EKV1tUbLbsV
+
+[Day 3](https://adventofcode.com/2024/day/3)
+
+- Part 1: https://go.dev/play/p/eL4TGiAxmBE
+- 
